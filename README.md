@@ -1,5 +1,5 @@
 # Weather App
-<a href =" Weather app\Weather-app-prototype.png"/>
+<img src =" Weather app\Weather-app-prototype.png"/>
 
 # Technologies used
 HTML <BR/>
